@@ -2,6 +2,7 @@ using System;
 
 namespace Fitness.BL.Model
 {
+    [Serializable]
     public class User
     {/// <summary>
      /// Имя
