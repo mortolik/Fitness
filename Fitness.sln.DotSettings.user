@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4f1d1c42_002D732e_002D418e_002Da0e5_002D0b5cba755c3d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Fitness.BL.Test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\User\RiderProjects\Fitness\Fitness.BL.Test" Presentation="&amp;lt;Fitness.BL.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ebfcb40e_002De161_002D4f98_002D86b5_002D6a35c5f9ea48/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SaveTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E420520A-7301-4736-9F87-2ABF2DC37C94::net7.0::Fitness.BL.Test.FitnessBLTest.SaveTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E420520A-7301-4736-9F87-2ABF2DC37C94::net7.0::Fitness.BL.Test.FitnessBLTest.SetNewUserDataTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
